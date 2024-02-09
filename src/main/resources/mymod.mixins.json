@@ -1,0 +1,9 @@
+{
+	"required": true,
+	"package": "at.randorf.want_of_building.mixin",
+	"compatibilityLevel": "JAVA_17",
+
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
